@@ -6,9 +6,9 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Before You Begin
 
-1. Create a new repository for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
+X. Create a new repository for this project called `VBA-challenge`. **Do not add this homework to an existing repository**.
 
-2. Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
+X. Inside the new repository that you just created, add any VBA files you use for this assignment. These will be the main scripts to run for each analysis.
 
 ### Files
 
